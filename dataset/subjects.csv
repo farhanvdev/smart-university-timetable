@@ -1,0 +1,21 @@
+id,code,name,lectures_per_week,required_room_type
+1,IT501,Data Structures and Algorithms,2,classroom
+2,IT502,Database Management Systems,2,classroom
+3,IT503,Operating Systems,2,classroom
+4,IT504,Computer Networks,2,classroom
+5,IT505,Software Engineering,1,classroom
+6,IT506,Artificial Intelligence,2,classroom
+7,IT507,Machine Learning,1,classroom
+8,IT508,Theory of Computation,1,classroom
+9,IT509,Computer Organization,1,classroom
+10,IT510,Discrete Mathematics,1,classroom
+11,IT511,Probability and Statistics,1,classroom
+12,IT512,Web Technologies,1,classroom
+13,IT513,Compiler Design,1,classroom
+14,IT514,Cyber Security,1,classroom
+15,IT515,Cloud Computing,1,classroom
+16,IT516,Data Mining,1,classroom
+17,IT517L,Database Systems Lab,1,lab
+18,IT518L,Operating Systems Lab,1,lab
+19,IT519L,Networks and Security Lab,1,lab
+20,IT520L,AI and Machine Learning Lab,1,lab
